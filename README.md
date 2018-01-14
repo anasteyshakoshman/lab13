@@ -2,7 +2,7 @@
 
 ```ShellSession
 
-$ git clone https://github.com/Talkytitan5127/lab13
+$ git clone https://github.com/anasteyshakoshman/lab13
 
 $ cmake -H. -B_builds
 
